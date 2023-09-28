@@ -1,6 +1,6 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# VidDiffusion
 
 !!!Brief introduction to the project and the problem it is intended to solve!!!
 
