@@ -2,20 +2,20 @@
 
 # VidDiffusion
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+AI image models are getting better and better but the tools that currently exist to apply these image models to video files are complex and very difficult to use for the average person. This piece of software will condense those complexities into a simple to use product that can take video footage as an input, apply modifications from Stable Diffusion, and produce a video output with an art style applied on top of the footage.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Clemens Strigl](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl)** - !!!List of Person A's primary contributions!!!
+* **[Sabas Martinez](https://github.com/UsabilityEngineering/ux-portfolio-SabasMartinez)** - !!!List of Person B's primary contributions!!!
+* **[Cy Baca](https://github.com/UsabilityEngineering/ux-portfolio-cybaca)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
- 
+
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
-* [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/)
+* [Personas and Scenarios](personas/Personas_and_Scenarios.pdf)
+* [Sketches and Diagrams](sketches/UX-VidDiffusion-Sketch.pdf)
 * [Wireframes](wireframes/)
 * [Prototype](#)
 
@@ -51,3 +51,4 @@
 * !!!as an executive would understand.!!!
 
 [Full phase III report](phaseIII/)
+
