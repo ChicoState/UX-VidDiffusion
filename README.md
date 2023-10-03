@@ -6,13 +6,11 @@ AI image models are getting better and better but the tools that currently exist
 
 ## UX Team Members
 
-* **[Clemens Strigl](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl)** - !!!List of Person A's primary contributions!!!
-* **[Sabas Martinez](https://github.com/UsabilityEngineering/ux-portfolio-SabasMartinez)** - !!!List of Person B's primary contributions!!!
-* **[Cy Baca](https://github.com/UsabilityEngineering/ux-portfolio-cybaca)** - !!!List of Person C's primary contributions!!!
+* **[Clemens Strigl](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl)** 
+* **[Sabas Martinez](https://github.com/UsabilityEngineering/ux-portfolio-SabasMartinez)** 
+* **[Cy Baca](https://github.com/UsabilityEngineering/ux-portfolio-cybaca)**
 
 # User-Centered Design Artifacts
-
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/Personas_and_Scenarios.pdf)
 * [Sketches and Diagrams](sketches/UX-VidDiffusion-Sketch.pdf)
