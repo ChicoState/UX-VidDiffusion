@@ -70,8 +70,10 @@ Through our creation of personas and scenarios we discovered that it is importan
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+In conclusion, through competitive analysis we have determined that there are no good, easy learnable, easy to install, local appications that employ video diffusion. Either they are an extreme hassle to intall or they all require a fast internet connection to upload your files. Additionally, through heuristic evaluations we have detemermined that in order to appeal to a very high level audience, we will have to implement a very simple and intuative UX in order to have the shallowest learning curve and the fastest mastery of the tool. Instead of simply displaying configuration numbers, we will incorperate sliders and other neater UX designs to make the user experience more pleasant and efficient.
 
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+
+The biggest caveat that we encountered was that we were not able to actually interview or talk to people that would reaslistically be our audience. This greatly limits us on what such users want for features since they might be looking for a tool with specific but important specifications. Secondly, all evaluations have been made by UX novices, thus some aspects might have been missed or over looked. Since we are still learning what makes a good user interface great, we will continue to improve our ideas and implementations of our UI going deeper into the semester.
