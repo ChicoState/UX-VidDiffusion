@@ -33,7 +33,7 @@ AI image models are getting better and better but the tools that currently exist
 * Heuristic Evaluation:
   - Most **upload processes take very long** since they have to be uploaded to a web server
   - Same impact on the download speed of the processed videos too
-  - Add **prompt trends** as an important feature
+  - Add **diffusion trends** as an important feature
   
 
 [Full phase I report](phaseI/)
