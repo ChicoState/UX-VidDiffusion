@@ -74,6 +74,4 @@ In conclusion, through competitive analysis we have determined that there are no
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
-
 The biggest caveat that we encountered was that we were not able to actually interview or talk to people that would reaslistically be our audience. This greatly limits us on what such users want for features since they might be looking for a tool with specific but important specifications. Secondly, all evaluations have been made by UX novices, thus some aspects might have been missed or over looked. Since we are still learning what makes a good user interface great, we will continue to improve our ideas and implementations of our UI going deeper into the semester.
