@@ -11,9 +11,9 @@ AI image models are getting better and better but the tools that currently exist
 
 # User-Centered Design Artifacts
 
-* [Personas and Scenarios](personas/Personas_and_Scenarios.pdf)
+* [Personas and Scenarios](personas/README.md)
 * [Sketches and Diagrams](sketches/UX-VidDiffusion-Sketch.pdf)
-* [Wireframes](wireframes/)
+* [Wireframes](wireframes/README.md)
 * [Prototype](#)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
