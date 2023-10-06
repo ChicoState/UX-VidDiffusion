@@ -2,14 +2,14 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
 ### VidDiffusion
 ### Team Members: Clemens Strigl, Sabas Martinez, and Cy Baca
+VidDiffusion plans on revolutanizing the film making industry for small production studios and even self employed content creators. 
 This project's aim is to create a piece of software that lets the user apply AI modifications based on prompt to video files. The software must be simple to install and use for someone who has little familiarity with Stable Diffusion and little technical skills to get it installed and running.
 
 ## Methods
+We have employed comptetive analysis, Heuristic Evaluation, and User driven Scenarios to determine the industry standards and common practices for our project type. This gave us great insights into what other companies in or industry are doing and even what features and designs they are lacking according to our buisness model. Using Heuristic Evaluation we were able to closely determine pros and cons of competing applications while user stories give great insight into who will use our application and what they are trying to achieve.
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 ### Competitive Analysis
 In our competitive analysis, we researched potential competitors to our software and evaluated their strengths, weaknesses, the overall quality of the product, price, and platforms that they are available on. After completing the analysis, we came up with four competitors: Stable Diffusion, ControlNet-M2M, Mov2Mov extension for Stable Diffusion, and runwayml.com. Using this method, we were able to come up with a baseline of what we want our product to achieve, as well as understand what we need to do in order to be a viable competitor to alternative software.
 
