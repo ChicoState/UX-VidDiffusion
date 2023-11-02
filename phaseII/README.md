@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+During this spring, the UX team focused on refining the user requirements for the UX design of our application. Our biggest goal during this sprint was developing an initial design of our applications UX to see what aspects we need to work for for different kinds of audiences that will be employing our applicaion to reach their goal. Through initial design implementations and layouts we were able to devise a better sprint 3 plan for what we will need to work on to make our UX compliant to industry standards and user expectations on all processes.   
 
 ## Methods
 
