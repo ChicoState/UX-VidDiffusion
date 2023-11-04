@@ -33,8 +33,11 @@ Unfortuneatly, only one of the designers responded to our request, so we could n
 ### Informal Feedback
 
 ## Conclusions
+<!---
+!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!! --->
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+By employing cognative walkthroughs and then recieving informal reviews based on our wireframes with each persona, we were able to come up with a ot of changes and revisions that we need to make for our future version. The biggest being
+
 
 ## Caveats
 
