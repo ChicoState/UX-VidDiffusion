@@ -41,7 +41,7 @@ AI image models are getting better and better but the tools that currently exist
 
 **Executive Summary**
 
-* First design implementations of UX
+* First design mockups of UX
   - Created Sketches, designs and wireframes of initial UX
   - Molded each **wireframes based off of user personas** and their goals
   - Wireframes were then **citiqued by other UX designers**
