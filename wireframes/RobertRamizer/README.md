@@ -13,7 +13,7 @@
 
 ### Edit Video
 - Setp 3: Once he uploaded an video to the application he is able to either choose from presets that will modify his video according to his selection. Secondly, he is able to manually type a prompt into the text box, describing what he wants the AI to transform the video into. Or thirdly, he is able to upload a seperate image from which the AI will be able to pull the theme for the video diffusion from. He is ablso able to modify the size of the video.
-- 
+  
 ![Edit Video](Edit-Prompt.png)
 
 
