@@ -41,10 +41,10 @@ AI image models are getting better and better but the tools that currently exist
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* First design implementations of UX
+  - Created Sketches, designs and **wireframes** of initial UX
+  - Modeld each **wireframes based off of user personas**
+* 
 
 [Full phase II report](phaseII/)
 
