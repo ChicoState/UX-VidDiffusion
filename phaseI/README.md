@@ -38,7 +38,9 @@ We created three personas, each with different backgrounds, lifestyles, and goal
 
 ## Findings
 
+<!---
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+--->
 ### Competitive Analysis
 Upon conclusion of our competitive analysis, we discovered four major competitors: Stable Diffusion, ControlNet-M2M, Mov2Mov extension for Stable Diffusion, and runwayml.com. Stable Diffusion on its own does not pose a major threat as a competitor, because it is very difficult to set up and get running for the average person. However, there is a webui script available from the creator of stable diffusion that makes installation a little easier, and makes access to extensions like Mov2Mov easy to install. It's major fault, though, is that there is still no simple way to install and make video editing available in a few easy steps.
 Scripts like ControlNet-M2M and Mov2Mov are difficult to install and run without a certain level of technical ability.
