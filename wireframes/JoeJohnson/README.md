@@ -7,7 +7,9 @@
 ![Upload A File](Upload-Edit.png)
 ### Edit Video From Prompt
 ![Edit Video](Edit-Prompt.png)
-### Edit Video from Preset
+### Edit Video From Preset
 ![Edit Results](Edit-Preset.png)
+### Edit Video From Image
+![Edit Results](Edit-Image.png)
 ### Complete
 ![Save Results](Complete.png)
