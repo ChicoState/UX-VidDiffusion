@@ -44,6 +44,10 @@ AI image models are getting better and better but the tools that currently exist
 * First design implementations of UX
   - Created Sketches, designs and **wireframes** of initial UX
   - Modeld each **wireframes based off of user personas**
+* Wireframe analysis:
+  - Employed **cognitive walkthrough** for better insight into our UX based on each users goals
+  - **Informal feedback** was given by other UX teams on our wireframes
+  - Each frame was analized based on user goals
 * 
 
 [Full phase II report](phaseII/)
