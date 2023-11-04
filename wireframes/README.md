@@ -5,4 +5,5 @@
 ## Phase II: Refining interaction and designing wireframes
 [Phase II Report](../phaseII/README.md)\
 [Wireframes: Persona 1 - Lisa Ramirez ](LisaRamirez/README.md)\
-[Wireframes: Persona 2 - Rober Ramizer](RobertRamizer/README.md)
+[Wireframes: Persona 2 - Rober Ramizer](RobertRamizer/README.md)\
+[Wireframes: Persona 3 - Joe Johnson](JoeJohnson/README.md)
