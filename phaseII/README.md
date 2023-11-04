@@ -41,13 +41,15 @@ Unfortuneatly, only one of the designers responded to our request, so we could n
 
 
 ## Conclusions
-
 <!---
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
---->
+!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!! --->
+
+By employing cognative walkthroughs and then recieving informal reviews based on our wireframes with each persona, we were able to come up with a ot of changes and revisions that we need to make for our future version. The biggest being
+
 
 ## Caveats
 
-<!---
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
---->
+<!---  !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! --->
+
+The biggest Caveat that we encountered during our infromal feedback was that we were only able to get one single response from a nother designer. If we had two or three then we would be able to draw much better conclusions on all the aspects that are lacking or need refining in our UX. Only haveing a single review will introduce bias on what we should work on and how the UX should be like. Additionally, all the reviews were only conducted by designers from our class further introducing a more biased view. As of the reviewers, it would be much more of a helpfull review if they were similar to the personas that we outlined in our repots. This would give us direct feedback of what an invested user would expect from our website. 
+
