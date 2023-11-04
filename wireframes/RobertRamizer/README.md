@@ -1,7 +1,7 @@
 # Persona 2 - Robert Ramizer
 ### Login
 - Step 1: Login is required for all users in order to procede within the app and their goal.
-- 
+  
 ![Login](Login.png)
 
 
