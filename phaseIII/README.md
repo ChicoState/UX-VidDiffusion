@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+For the third and final phase of or class and project, we were tasked with conducting Usability test on other students. We started with designing scenarios in the last two phases that were turned into test tasks for each test user. After training and submitting an IRB form, to ensure interviewee safety and proper procedures and protocols are followed. After an approval from the board, in our sitation the professor, we were able to conduct actual UX tests by employing other students to analyze our prototypes. Using data collected from these interviews, we aim to improve, add, and change features of our application and UI to perfect the main principles of UI:  Satisfy, Effective, Efficient, Memorable, Userful, Learnability, Error Tollerant, and Safe.
 
 ## Methods
 
