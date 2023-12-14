@@ -60,10 +60,16 @@ AI image models are getting better and better but the tools that currently exist
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Final Phase used for **UI Testing**
+* Experiment Designed, IRB approved, Test Subjects hired
+* Recieved valuable **UI Evaluation**:
+  - Minor Features need to be made **more visable**
+  - Better comparison between **before and after** video manipulation
+  - **More user feedback** when starting/completing a feature
+* Potential addition of feature:
+  - Supported File Formats could include **Project Files**
+  - Promt current Project Save before leaving a screen
+  - Advanced Users can Upload their own training data for an entirely new style
 
 [Full phase III report](phaseIII/)
 
