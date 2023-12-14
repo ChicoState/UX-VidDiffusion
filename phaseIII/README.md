@@ -29,6 +29,9 @@ In the dedicated page you should include:
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
 --->
 During this sprint, our UX team completed our prototype and were now ready to do Usability Testing on the prototype to see how well our UX design held up. We wanted to find out whether our prototype was easy to use for people with various backgrounds, including people with or without AI experience, and with or without video editing experience. Since the software's goal is to be usable for people with little to no experience as well, we aimed to make the design simple enough that an editing tasks could be complete only using a mouse, and with a minimal number of clicks. After completing the prototype, we aimed to test for efficiency: can a task be completed with a minimal number of steps and clicks, satisfaction: was the user satisfied with the software, and effectiveness: did the user run into any errors, and was there a good success rate for users.
+<!---
+For the third and final phase of our class and project, we were tasked with conducting Usability tests on other students. We started with designing scenarios in the last two phases that were turned into test tasks for each user. After training and submitting an IRB form, to ensure interviewee safety and proper procedures and protocols are followed, we conducted actual UX tests by employing other students to analyze our prototypes. Using data collected from these interviews, we aim to improve, add, and change features of our application and UI to perfect the main principles of UI: Satisfy, Effective, Efficient, Memorable, Userful, Learnability, Error Tolerant, and Safe.
+--->
 
 ## Methods
 <!---
@@ -92,4 +95,6 @@ findings/conclusions drawn from them. In other words, give warnings if there
 are limitations to your research such as not being able to find enough users of
 a particular demographic, the methods not being able to expose certain
 information, assumptions you made, etc. !!!  --->
-Limited to only classmates and small sample.
+Our created prototypes do not actually represent the functions of all features meaning we had to simulate parts of the tasks as completed by the user. For example, subjects could not actually select a video to upload to the software. Given our project, the major differences between scenarios and tasks is how the user is able to use the finer details of a feature. Having lost out on such control of features, sevierely reduced the amount of data we were able to collect on each specific feature and its functionality. One feature that was heavily affected was text form in our application that expected users to enter a prompt that the AI would use to edit the video. XD does not allow the tester to actually enter in any text, so they had to say what they wanted to enter, but had no way of knowing its corresponding output using the actual program backend, we were not able to fully simultate if a user is truly able to complete the task without any interference.
+
+Another caveat is that we, although we were able to find real test subjects for our usability test, we were limited to 5 test subjects, and they were all selected from our classmates, so they probably had similar experiences and backgrounds.
