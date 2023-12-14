@@ -58,18 +58,18 @@ An explanation of your overall approach to the study (e.g. formative vs summativ
 
 We included the informed consent form, our finalized testing protocol script, our CITI training certificates, our data collection spreadsheet template, and our prototype in our IRB submission.
 
-Once the IRB submission was improved, we started recruiting test subjects. Unfortunately, we could only recruit subjects from a small population: our classmates. The professor provided us with a spreadsheet with time slots where our classmates could sign up to participate in our study, and we were able to recruit five participants (n=5). We then reserved private rooms in the library were we would conduct the study, reserving enough time so that we would have 30 minutes for each participant.
+Once the IRB submission was approved, we started recruiting test subjects. Unfortunately, we could only recruit subjects from a small population: our classmates. The professor provided us with a spreadsheet with time slots where our classmates could sign up to participate in our study, and we were able to recruit five participants (n=5). We then reserved private rooms in the library were we would conduct the study, reserving enough time so that we would have 30 minutes for each participant.
 
-We printed out a copy of our protocol and a copy of our consent forms for each participant. Once the study commenced, we began by reading the participant their consent form, informing them that they can leave at any time, providing them with contact information to contact the research team with, and then having them sign the consent form. Then we read our study introduction, and ask them to speak their thoughts out loud while they completed each task. We opened the prototype, handed them control, and asked them to complete each task. After each task was complete, we asked them how they thought it went, and to rate the task on a scale from 1 to 5, 5 being easiest. Finally we asked them 5 debrief questions:
+We printed copies of our protocol and consent forms for each participant. Once the study commenced, we began by reading the participant their consent form. We informed them that they can leave at any time, provided them with contact information they can use to contact the research team and then had them sign the consent form. Then we read our study introduction, and ask them to speak their thoughts out loud while they completed each task. We opened the prototype, handed them control, and asked them to complete each task. After each task was complete, we asked them how they thought it went, and to rate the task on a scale from 1 to 5, 5 being easiest. Finally we asked them 5 debrief questions:
 - What did they like most about the product?
 - What did they dislike most?
 - What features did they think might have been missing?
 - What features did they have difficulty finding?
 - Had they used the preset feature, and, if they did, did they find it to be useful?
 
-The purpose of these questions was to determine whether or not our design was actually as good was we thought, and to find out where and how we needed to change the software if the users were having a hard time using it.
+The purpose of these questions was to determine whether or not our design targetted the core ideas that make a projects user experience ideal, and to find out how we need to change the software if the users were having a hard time using it.
 
-While recording data, we made sure not to include any personal or identifying information, such as names.
+While recording data, we made sure not to include any personal or identifying information such as names by assigning each user a numerical identifier.
 
 Finally, we thanked them and ended the session.
 
