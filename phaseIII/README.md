@@ -67,7 +67,7 @@ We printed copies of our protocol and consent forms for each participant. Once t
 - What features did they have difficulty finding?
 - Had they used the preset feature, and, if they did, did they find it to be useful?
 
-The purpose of these questions was to determine whether or not our design targetted the core ideas that make a projects user experience ideal, and to find out how we need to change the software if the users were having a hard time using it.
+The purpose of these questions was to determine whether or not our design targeted the core ideas that make a projects user experience ideal, and to find out how we need to change the software if the users were having a hard time using it.
 
 While recording data, we made sure not to include any personal or identifying information such as names by assigning each user a numerical identifier.
 
@@ -82,49 +82,56 @@ The spreadsheet is formatted so that each row contains data for a different part
 ## Findings
 <!--- !!! Detail each of the findings point-by-point to clarify new
 discoveries of users' needs !!!  --->
-Has used video editing software:
-    - vegas pro: 1
-    - adobe premiere: 4
-    - imovie: 1
-    - kinemaster: 1
-    - davinci resolve: 2
 
-    4 months * 1
-    6 months * 1
-    1 month * 3
+### Background 1: Has used video editing software:
 
-Has used ai video editing features:
-    0
+1 participant had about 4 months of video editing experience.
+
+1 participant had about 6 months of video editing experience.
+
+3 participants had less than 1 month of video editing experience.
+
+Software used:
+- vegas pro: 1 participant.
+- adobe premiere: 4 participant.
+- imovie: 1 participant.
+- kinemaster: 1 participant.
+- davinci resolve: 2 participant.
+
+All 5 out of 5 of our participants had experience using video editing software. (mean = 1, sd = 0)
+
+2 out of 5 had more than 1 month of experience. (mean = 0.4, sd = 0.49)
+
+1 out of 5 had greater than 5 months of experience. (mean = 0.2,  sd = 0.4)
+
+### Background 2: Has used ai video editing features:
+0 out of 5 of our participants had experience using AI tools for video editing. (mean = 0, sd = 0)
+
+All in all, our participants seemed to have similar backgrounds regarding their previous video editing experience, meaning that our data may be skewed one direction or the other for lack of a variety of subjects.
 
 Task1:
-    - Dependency installation
-    - Used prompt
-    - Other method
-    - Task completion
-    - easy rating
+- Dependency installation: 3/5 had no difficulty (mean = 0.6, sd = 0.49)
+- Used prompt: 4/5 used prompt (mean = 0.8, sd = 0.4)
+- Other method: 1/5 used image (mean = 0.2, sd = 0.4)
+- Task completion: 5/5 completed the task (mean = 1, sd = 0)
+- easy rating: 3/5, 4/5, 5/5, 4/5, 5/5 (mean = 4.2, sd = 0.75)
 
 Task2:
-    - Navigated back to home
-    - Used 'previous videos'
-    - Other method
-    - Task completion
-    - easy rating
+- Navigated back to home: 5/5 (mean = 1, sd = 0)
+- Used 'previous videos': 4/5 (mean = 0.8, sd = 0.4)
+- Other method: 1/5 used the "choose video" button to navigate file system first. (mean = 0.2, sd = 0.4)
+- Task completion: 5/5 (mean = 1, sd = 0)
+- easy rating: 5/5, 5/5, 5/5, 5/5, 5/5 (mean = 5, sd = 0)
 
 Task3:
-    - Uploaded new video and used presets feature
-    - Used other method
-    - Task completion
-    - easy rating
-
-D1: 5/5 Said the design was simple or easy to understand.
-D2: 1 Said it was too unresponsive (due to prototype)
-Liked the design: 4/5
+- Uploaded new video and used presets feature: 5/5 (mean = 1, sd = 0)
+- Used other method: 0/5
+- Task completion: 5/5
+- easy rating: 4/5, 5/5, 5/5, 5/5, 5/5 (mean = 4.8, sd = 0.40)
 
 
-Dependencies were difficult to install for 2 out of 5 (mean = 0.400, sd = 0.490)
-Save button confusion for 3 out of 5 of the participants (mean = 0.600, sd = 0.490)
-
-
+Graph of task difficulty:
+![graph](graph.png)
 
 
 
@@ -155,7 +162,7 @@ One participant mentioned that he would like to see a feature that would allow u
 
 Another participant mentioned that he would like a feature for more advanced users, that would allow the users to upload custom training data to affect the way the AI does the edit. As is, our software uses a version of Stable Diffusion that automatically downloads a predetermined training set from huggingface.co. This feature would be great for users that want to do something that our default training data is not well equipped to do.
 
-One participant mentioned he would like to have a side-by-side view of the final video and the original video, with an option to play both simultaniously to compare the changes in real time.
+One participant mentioned he would like to have a side-by-side view of the final video and the original video, with an option to play both simultaneously to compare the changes in real time.
 
 
 
