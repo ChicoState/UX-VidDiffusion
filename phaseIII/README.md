@@ -82,6 +82,51 @@ The spreadsheet is formatted so that each row contains data for a different part
 ## Findings
 <!--- !!! Detail each of the findings point-by-point to clarify new
 discoveries of users' needs !!!  --->
+Has used video editing software:
+    - vegas pro: 1
+    - adobe premiere: 4
+    - imovie: 1
+    - kinemaster: 1
+    - davinci resolve: 2
+
+    4 months * 1
+    6 months * 1
+    1 month * 3
+
+Has used ai video editing features:
+    0
+
+Task1:
+    - Dependency installation
+    - Used prompt
+    - Other method
+    - Task completion
+    - easy rating
+
+Task2:
+    - Navigated back to home
+    - Used 'previous videos'
+    - Other method
+    - Task completion
+    - easy rating
+
+Task3:
+    - Uploaded new video and used presets feature
+    - Used other method
+    - Task completion
+    - easy rating
+
+D1: 5/5 Said the design was simple or easy to understand.
+D2: 1 Said it was too unresponsive (due to prototype)
+Liked the design: 4/5
+
+
+Dependencies were difficult to install for 2 out of 5 (mean = 0.400, sd = 0.490)
+Save button confusion for 3 out of 5 of the participants (mean = 0.600, sd = 0.490)
+
+
+
+
 
 ## Conclusions
 <!--- !!! Discoveries derived from the methods and their findings. Interpret
@@ -90,13 +135,43 @@ Describe those recommendations and how they should shape future work. In this
 section, include the new design recommendations based on the latest user
 insights. !!!  --->
 
+### Problems with the prototype UX design.
+Overall, the participants seemed to like the layout of the software and thought that it was pretty easy to use. However, there were a few problems that we discovered with our design based on the test results. Furthermore, some of the participants suggested features that they thought would be good to add to make the software more useful.
+
+The first problem we encountered involved the dependency installation portion of the first task. We didn't indicate in the task description that the dependencies needed to be installed in order to see how an unsuspecting user might do when first encountering the software. In the prototype, we included screens for the case when the software dependencies are not fully installed yet, and created a clickable toast message at the top of the screen on the home page. All of the buttons on the screen are grayed out and not clickable until the toast message is clicked, and the dependencies are installed, at which point the software will redirect to a usable home screen. 2 of the participants had trouble figuring out what to do, and took a relatively long time to discover the toast message. Since this is about 40% of our sample, we concluded that the toast message was not a good enough indicator that the dependencies are needed, and decided that in the future we need to better way of indicating this. Based on the user feedback, we think that maybe a large popup in the center of the screen would be more ideal, so that the user cannot miss it and knows exactly what to do.
+
+The next large problem was the layout of the edit completed page. There are two smaller "Save" and "Remove Video" buttons below the original video output on the bottom left hand side of the screen. On the bottom right, there is a large, obvious  "Home" button, and on the top left, there is an arrow button indicating it will return the user to the previous editing page. 3 of the participants expressed concern about whether or not to press save, and lack of understanding of what the software would do if the "Home" or "Back" buttons were pressed without clicking the save button. The prototype gives no warning if the user navigated away from the page without saving, and no indication whether the video has automatically been saved. We have concluded that since 60% of our participants were confused by this, that we need to either include a "video not saved warning" when a navigation button is clicked, or have an autosave function, with some sort of popup indicator or file system sidebar to inform the user that the video is saved, and where they can locate the video.
+
+One more problem we encountered was that one participant mentioned that he could not figure out what the "Remove Video" button was supposed to be used for. We originally came up with this concept as a feature to delete the video if the user did not like the outcome, but it's location and size do not help the user understand really what it is for, and it does not make sense to have if the auto-save feature is not implemented. When the software gets more fleshed out, we will need to decide whether to keep that button, and make it's usage more obvious, or to get rid of it in favor of a more streamlined experience.
+
+One participant found the "previous renders" feature on the home page, but first clicked on "choose from files" button to navigate through the file system. We may have to include a feature that opens up a file navigation screen that lists where each file is stored.
+
+
+### Recommended features.
+
+A few recommendations were made by some of the participants.
+
+One participant mentioned that he would like to see a feature that would allow users to save their prompts as presets. I thought this was an extremely good idea, because sometimes the AI needs extensive and complicated prompts in order to get it to render the specific feature you want in the video. For users who want to use the same edit on multiple different projects or videos, this would definitely be a killer feature.
+
+Another participant mentioned that he would like a feature for more advanced users, that would allow the users to upload custom training data to affect the way the AI does the edit. As is, our software uses a version of Stable Diffusion that automatically downloads a predetermined training set from huggingface.co. This feature would be great for users that want to do something that our default training data is not well equipped to do.
+
+One participant mentioned he would like to have a side-by-side view of the final video and the original video, with an option to play both simultaniously to compare the changes in real time.
+
+
+
+
+
+
 ## Caveats
 <!--- !!! Considerations and/or limitations to the methods you chose and the
 findings/conclusions drawn from them. In other words, give warnings if there
 are limitations to your research such as not being able to find enough users of
 a particular demographic, the methods not being able to expose certain
 information, assumptions you made, etc. !!!  --->
-Our created prototypes do not actually represent the functions of all features meaning we had to simulate parts of the tasks as completed by the user. For example, subjects could not actually select a video to upload to the software. Given our project, the major differences between scenarios and tasks is how the user is able to use the finer details of a feature. Having lost out on such control of features, sevierely reduced the amount of data we were able to collect on each specific feature and its functionality. One feature that was heavily affected was text form in our application that expected users to enter a prompt that the AI would use to edit the video. XD does not allow the tester to actually enter in any text, so they had to say what they wanted to enter, but had no way of knowing its corresponding output using the actual program backend, we were not able to fully simultate if a user is truly able to complete the task without any interference.
+Our created prototypes do not actually represent the functions of all features meaning we had to simulate parts of the tasks as completed by the user. For example, subjects could not actually select a video to upload to the software. Given our project, the major differences between scenarios and tasks is how the user is able to use the finer details of a feature. Having lost out on such control of features, severely reduced the amount of data we were able to collect on each specific feature and its functionality. One feature that was heavily affected was text form in our application that expected users to enter a prompt that the AI would use to edit the video. XD does not allow the tester to actually enter in any text, so they had to say what they wanted to enter, but had no way of knowing its corresponding output using the actual program back end, we were not able to fully simulate if a user is truly able to complete the task without any interference.
 
-Another caveat is that we, although we were able to find real test subjects for our usability test, we were limited to 5 test subjects, and they were all selected from our classmates, so they probably had similar experiences and backgrounds.
+Another caveat is that we, although we were able to find real test subjects for our usability test, we were limited to 5 test subjects, and they were all selected from our classmates, so they probably had similar experiences and backgrounds. Due to this small number of participants, if even one participant had difficulty with a particular part of the software, it would be difficult to determine whether this was just an outlier, or if actually 1/5 of user would have difficulty with this feature.
+
+If we had had access to more funds, we may have been able to conduct a higher scale test with more subjects from more varied backgrounds.
+
 
