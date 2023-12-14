@@ -78,6 +78,8 @@ AI image models are getting better and better but the tools that currently exist
   - Promt current Project **Save before leaving** a screen
   - Advanced Users can **Upload their own training data** for an entirely new style
 
+
 [Full phase III report](phaseIII/README.md)
+
 
 

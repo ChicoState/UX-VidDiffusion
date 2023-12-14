@@ -33,6 +33,7 @@ During this sprint, our UX team completed our prototype and were now ready to do
 For the third and final phase of our class and project, we were tasked with conducting Usability tests on other students. We started with designing scenarios in the last two phases that were turned into test tasks for each user. After training and submitting an IRB form, to ensure interviewee safety and proper procedures and protocols are followed, we conducted actual UX tests by employing other students to analyze our prototypes. Using data collected from these interviews, we aim to improve, add, and change features of our application and UI to perfect the main principles of UI: Satisfy, Effective, Efficient, Memorable, Userful, Learnability, Error Tolerant, and Safe.
 --->
 
+
 ## Methods
 <!---
 !!! Describe research methods you used to discover new insights, which explains
@@ -98,3 +99,4 @@ information, assumptions you made, etc. !!!  --->
 Our created prototypes do not actually represent the functions of all features meaning we had to simulate parts of the tasks as completed by the user. For example, subjects could not actually select a video to upload to the software. Given our project, the major differences between scenarios and tasks is how the user is able to use the finer details of a feature. Having lost out on such control of features, sevierely reduced the amount of data we were able to collect on each specific feature and its functionality. One feature that was heavily affected was text form in our application that expected users to enter a prompt that the AI would use to edit the video. XD does not allow the tester to actually enter in any text, so they had to say what they wanted to enter, but had no way of knowing its corresponding output using the actual program backend, we were not able to fully simultate if a user is truly able to complete the task without any interference.
 
 Another caveat is that we, although we were able to find real test subjects for our usability test, we were limited to 5 test subjects, and they were all selected from our classmates, so they probably had similar experiences and backgrounds.
+
