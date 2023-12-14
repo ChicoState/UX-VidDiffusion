@@ -68,8 +68,8 @@ AI image models are getting better and better but the tools that currently exist
   - **More user feedback** when starting/completing a feature
 * Potential addition of feature:
   - Supported File Formats could include **Project Files**
-  - Promt current Project Save before leaving a screen
-  - Advanced Users can Upload their own training data for an entirely new style
+  - Promt current Project **Save before leaving** a screen
+  - Advanced Users can **Upload their own training data** for an entirely new style
 
 [Full phase III report](phaseIII/)
 
