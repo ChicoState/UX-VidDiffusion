@@ -5,9 +5,9 @@ AI image models are getting better and better but the tools that currently exist
 
 ## UX Team Members
 
-* **[Clemens Strigl](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl)** Executive summary, Conclusions, Caveats, Personas, Sketches.
-* **[Sabas Martinez](https://github.com/UsabilityEngineering/ux-portfolio-SabasMartinez)** Executive summary, Conclusions, Caveats, Personas, Sketches.
-* **[Cy Baca](https://github.com/UsabilityEngineering/ux-portfolio-cybaca)** Introduction, Methods, Findings, Personas, Sketches.
+* **[Clemens Strigl](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl)** Executive summary, Conclusions, Caveats, Personas, Sketches, User Testing, Prototyping.
+* **[Sabas Martinez](https://github.com/UsabilityEngineering/ux-portfolio-SabasMartinez)** Executive summary, Conclusions, Caveats, Personas, Sketches, User Testing, Prototyping.
+* **[Cy Baca](https://github.com/UsabilityEngineering/ux-portfolio-cybaca)** Introduction, Methods, Findings, Personas, Sketches, User Testing, Prototyping.
 
 # User-Centered Design Artifacts
 
@@ -44,7 +44,7 @@ AI image models are getting better and better but the tools that currently exist
 * First design mockups of UX
   - Created Sketches, designs, and wireframes of initial UX
   - Molded each **wireframes based off of user personas** and their goals
-  - Wireframes were then **citiqued by other UX designers**
+  - Wireframes were then **critiqued by other UX designers**
 * Cognitive walkthrough:
   - **Created for each persona** and what steps they would take
   - Outlines the **differences between users**
@@ -69,13 +69,13 @@ AI image models are getting better and better but the tools that currently exist
 
 * Final Phase used for **UI Testing**
 * Experiment Designed, IRB approved, Test Subjects hired
-* Recieved valuable **UI Evaluation**:
-  - Minor Features need to be made **more visable**
+* Received valuable **UI Evaluation**:
+  - Minor Features need to be made **more visible**
   - Better comparison between **before and after** video manipulation
   - **More user feedback** when starting/completing a feature
 * Potential addition of feature:
   - Supported File Formats could include **Project Files**
-  - Promt current Project **Save before leaving** a screen
+  - Prompt current Project **Save before leaving** a screen
   - Advanced Users can **Upload their own training data** for an entirely new style
 
 
